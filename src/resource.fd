@@ -1,0 +1,19 @@
+!MS$FREEFORM
+! Microsoft Developer Studio generated include file.
+! Used by Image.rc
+!
+      integer, parameter :: IDM_ABOUTBOX                    = 16
+      integer, parameter :: IDD_ABOUTBOX                    = 100
+      integer, parameter :: IDS_ABOUTBOX                    = 101
+      integer, parameter :: IDD_IMAGE_DIALOG                = 102
+      integer, parameter :: IDR_MAINFRAME                   = 128
+      integer, parameter :: IDC_VWINDOW                     = 1000
+      integer, parameter :: IDC_EFULLPATH1                  = 1001
+      integer, parameter :: IDC_EFULLPATH2                  = 1002
+      integer, parameter :: IDC_OPENBTN1                    = 1003
+      integer, parameter :: IDC_OPENBTN2                    = 1004
+      integer, parameter :: IDC_SNAME1                      = 1013
+      integer, parameter :: IDC_SNAME2                      = 1014
+      integer, parameter :: IDC_EBASE                       = 1017
+      integer, parameter :: IDC_SFOCAL                      = 1019
+      integer, parameter :: IDC_PROGRESS                    = 1020
