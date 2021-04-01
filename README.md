@@ -32,4 +32,4 @@ References
 
 [3] Epipolar geometry (https://en.wikipedia.org/wiki/Epipolar_geometry)
 
-[3]  L. Zhang, G. Dugas-Phocion, J.-S. Samson, and S. M. Seitz,  Single view modeling of free-form scenes, Journal of Visualization and Computer Animation, 2002, vol. 13, no. 4, pp. 225-235.  (https://grail.cs.washington.edu/projects/svm/jvca2002.pdf ) 
+[4]  L. Zhang, G. Dugas-Phocion, J.-S. Samson, and S. M. Seitz,  Single view modeling of free-form scenes, Journal of Visualization and Computer Animation, 2002, vol. 13, no. 4, pp. 225-235.  (https://grail.cs.washington.edu/projects/svm/jvca2002.pdf ) 
