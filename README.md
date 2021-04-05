@@ -33,7 +33,7 @@ Note the approximate character of 3d shape - in this implementation I did not ge
 
 References
 =========
-[1] O. Faugeras, L. Robert What can two images tell us about a third one? July 1993
+[1] O. Faugeras, L. Robert What can two images tell us about a third one? (https://hal.inria.fr/inria-00074653)
 
 [2] 3D reconstruction (https://en.wikipedia.org/wiki/3D_reconstruction_from_multiple_images)
 
