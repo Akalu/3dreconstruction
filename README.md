@@ -1,6 +1,6 @@
 About
 ======
-It was one of my first projects completed in the framework of larger research program in 3d graphics. Among my over bold achievements see the 3d rendering engine (https://github.com/akalu/phy-engine)
+It was one of my first projects completed in the framework of larger research program in 3d graphics. Among my other bold achievements see the 3d rendering engine (https://github.com/akalu/phy-engine)
 
 As for the aim of this project, it was to develop a universal approach to very ambitious problem of restoring of the 3D shape of some object having only its snapshots.  
 
